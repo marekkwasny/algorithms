@@ -1,0 +1,2 @@
+make: a.cpp
+	g++ -std=gnu++17 -Wall -Wextra -Wshadow -O2 -static -DSPRAWDZACZKA -o a a.cpp
